@@ -145,5 +145,6 @@ docker-compose up
 ```
 - 백그라운드에서 데몬으로 돌도록 하려면 -d 옵션을 붙입니다.
 
+<br/>
 
 출처: https://www.yalco.kr/36_docker/
